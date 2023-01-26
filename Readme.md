@@ -1,4 +1,4 @@
-Aplikasi Prediksi Harga Telur Ayam Kampung
+<b>Aplikasi Prediksi Harga Telur Ayam Kampung
 
 Anggota Kelompok:
 
